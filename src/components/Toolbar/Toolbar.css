@@ -1,0 +1,11 @@
+.toolbar button {
+  margin: 10px 10px;
+  padding: 10px 10px;
+  border: 2px solid black;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.active-item {
+  background-color: rgb(16, 209, 64);
+}
